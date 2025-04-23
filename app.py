@@ -62,7 +62,7 @@ def get_stats():
     percentage = (read / total * 100) if total > 0 else 0
     return total, percentage
 
-# Initialize database
+# Initialize database.;76^YH 
 init_db()
 
 # Streamlit UI
